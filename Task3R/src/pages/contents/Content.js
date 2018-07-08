@@ -1,0 +1,7 @@
+let response = {
+  'At tempor commodo': 'Id ornare arcu odio ut sem nulla pharetra diam. Praesent tristique magna sit amet purus. Mattis pellentesque id nibh tortor. Mauris pharetra et ultrices neque. Sit amet nisl suscipit adipiscing bibendum est ultricies. Rhoncus urna neque viverra justo nec ultrices dui. Posuere lorem ipsum dolor sit amet consectetur adipi scing elit. Aenean euismod elementum nisi quis. Leo a diam sollicitudin tempor id eu nisl. Hac habitasse platea dictumst quisque.',
+  'Vel orci porta': 'Malesuada fames ac turpis egestas. Ante metus dictumat tempor commodo ullamcorper a. Tincidunt augue interdumvelit euismod in pellentesque.Ac orci phasellus egestastellus rutrum tellus pellentesque eu tincidunt. Sedrisus ultricies tristique nulla aliquet enim tortor at. At erat pellentesque adipiscing commodo elit at imperdiet dui. Proin fermentum leo vel orci porta non pulvinar. Posuere morbi leo urna molestie at. Vitae justo eget magna fermentum iaculis eu non. Senectuet  netus et malesuada fames ac turpis egestas.',
+  'Et ligula ullamcorper': 'Id ornare arcu odio ut sem nulla pharetra diam. Praesent tristique magna sit amet purus. Mattis pellentesque id nibh tortor. Mauris pharetra et ultrices neque. Sit amet nisl suscipit adipiscing bibendum est ultricies. Rhoncus urna neque viverra justo nec ultrices dui. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Aenean euismod elementum nisi quis. Leo a diam sollicitudin tempor id eu nisl. Hac habitasse platea dictumst quisque'
+};
+
+export default response;
